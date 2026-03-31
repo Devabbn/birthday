@@ -2,7 +2,7 @@
   font-family: myFirstFont;
   src: url(Cookie-Regular.ttf);
 }
-#header h1, .reception h3, .live_stream h2, .final_block h2, .our_story h2, .gallery h2, .wedding-couple h3{
+#header h1, .reception h3, .live_stream h2, .final_block h2, .our_story h2, .gallery h2, .wedding-couple h3, .video_section h2, .fontfamily{
   /*font-family: 'Engagement', cursive;*/
   /*font-family: 'Pacifico', cursive;*/
   font-family: myFirstFont;
@@ -75,6 +75,9 @@
 .our_story h2{
   padding-top: 2%;
 }
+.our_story h2 span{
+  color: #df4f4f;
+}
 .our_story p{
   padding: 2% 1%;
 }
@@ -107,6 +110,7 @@
 .live_stream h2{
   padding-bottom: 1%;
   /* padding-top: 5%; */
+  color: #fff;
 }
 
 #countdown ul{
@@ -126,7 +130,9 @@
   font-size: 4vw;
   color: #fff;
 }
-
+.fontfamily{
+  font-size: 24px;
+}
 /* .message {
   font-size: 4rem;
 }
