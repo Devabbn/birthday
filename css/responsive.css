@@ -2,7 +2,7 @@
     #header {
         height: auto;
         padding: 80% 0 0;
-        background-image: url('../images/harshad/11.jpeg');
+        background-image: url('../images/harshad/mobile.jpeg');
 
       }
     .header_content{
@@ -66,7 +66,7 @@
 
   @media only screen and (min-width: 600px) {
       #header {
-      background-image: url('../images/harshad/11.jpeg');
+      background-image: url('../images/harshad/parents.jpeg');
       padding: 48% 0 0;
       height: 76vw;
     }
@@ -86,7 +86,7 @@
       padding: 35% 0 0;
       /* background-image: url('../images/home.jpg');
        */
-       background-image: url(../images/harshad/11.jpeg);
+       background-image: url(../images/harshad/parents.jpeg);
     }
     #countdown{
       width: 600px;
@@ -108,5 +108,14 @@
     }
     .live_stream{
       margin-top: 12%;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    .marquee-item {
+      padding: 0 12px;
+    }
+    .marquee-item img {
+      height: 120px;
     }
   }
