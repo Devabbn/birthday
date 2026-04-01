@@ -62,6 +62,9 @@
     .red_head{
       font-size: 21px;
     }
+    .our_story h2 span{
+      display: block;
+    }
   }
 
   @media only screen and (min-width: 600px) {
