@@ -1,6 +1,6 @@
 @media only screen and (max-width: 600px) {
     #header {
-        height: auto;
+        height: 768px;
         padding: 80% 0 0;
         background-image: url('../images/harshad/mobile.jpeg');
 
