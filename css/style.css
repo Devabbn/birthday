@@ -133,6 +133,22 @@
 .fontfamily{
   font-size: 24px;
 }
+.reception, .live_stream{
+  padding-top: 0%!important;
+  display: block;
+  margin: auto;
+}
+.map div{
+  display: block;
+  margin: 0 auto 15%;
+}
+  .map .vratham_div{
+    height: 150px;
+  }
+  .map h3{
+        font-family: myFirstFont;
+     }
+
 /* .message {
   font-size: 4rem;
 }

@@ -59,6 +59,10 @@
       height: auto;
       min-height: 220px;
     }
+    .map .vratham_div{
+      min-height: 150px;
+      margin-bottom: 20%;
+    }
     .red_head{
       font-size: 21px;
     }
@@ -110,7 +114,7 @@
       margin-top: 6%;
     }
     .live_stream{
-      margin-top: 12%;
+      margin-top: 5%;
     }
   }
 
