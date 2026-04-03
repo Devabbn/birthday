@@ -314,7 +314,7 @@ canvas {
   color: #ffc551;
   font-weight: bold;
 }
-.wedding-couple img{
+.wedding-couple img, .kid_pic{
   width: 150px;
   height: 150px;
   border-radius: 50%;

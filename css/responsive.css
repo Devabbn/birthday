@@ -1,8 +1,9 @@
 @media only screen and (max-width: 600px) {
     #header {
-        height: 768px;
-        padding: 80% 0 0;
-        background-image: url('../images/harshad/mobile.jpeg');
+        height: 460px;
+        padding: 0;
+        background-image: url('../images/harshad/mobile.png');
+        background-size: contain;
 
       }
     .header_content{
@@ -57,7 +58,8 @@
     }
     .vratham_div{
       height: auto;
-      min-height: 220px;
+      min-height: auto;
+      margin: auto auto 10%;
     }
     .map .vratham_div{
       min-height: 150px;
